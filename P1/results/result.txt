@@ -1,0 +1,20 @@
+For delta = 0 and without energy coefficients:
+	-> mixture component = 2
+	   accuracy = 11.205995660452553
+	-> mixture component = 4
+	   accuracy = 13.280343621308063
+	-> mixture component = 8
+	   accuracy = 13.523668246025771
+	-> mixture component = 16
+	   accuracy = 13.904928486029315
+	-> mixture component = 32
+	   accuracy = 13.693264845237568
+	-> mixture component = 64
+	   accuracy = 13.102997830226276
+	-> mixture component = 128
+	   accuracy = 12.530221848292964
+	-> mixture component = 256
+	   accuracy = 12.062834875791523
+       
+We found that GMM with mixture component 16 is optimal.    
+		
